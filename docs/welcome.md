@@ -1,8 +1,9 @@
 ---
-title: Welcome to Celo
-description: Celo's mission is to build a financial system that creates the conditions for prosperity—for everyone.
-id: welcome
+title: About Mento
+description: Mento is a stability mechanism...
 slug: /
+sidebar_position: 1
+sidebar_label: About
 ---
 
 import YouTube from '@components/YouTube';

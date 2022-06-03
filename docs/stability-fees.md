@@ -1,5 +1,5 @@
 ---
-title: Celo Stability Fees
+title: Stability Fees
 description: Overview of stability fee parameters, timing, frequency, amounts, management, and updates.
 ---
 # Stability Fees

@@ -1,5 +1,5 @@
 ---
-title: Celo Stability Algorithm (Mento)
+title: Mento Stability Algorithm
 description: How the supply of the Celo Dollar is achieved in the Celo protocol using the constant-product decentralized one-to-one mechanism (CP-DOTO). 
 ---
 
