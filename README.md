@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the technical documentation site for the Celo project! You can check out the live site at https://docs.celo.org.
+Welcome to the technical documentation site for the Mento Protocol! You can check out the live site at https://docs.mentoorg.
 
 ## Getting Started
 
