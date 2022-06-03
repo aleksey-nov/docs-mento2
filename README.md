@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the technical documentation site for the Mento Protocol! You can check out the live site at https://docs.mentoorg.
+Welcome to the technical documentation site for the Mento Protocol! You can check out the live site at https://docs.mento.org.
 
 ## Getting Started
 
